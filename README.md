@@ -5,3 +5,23 @@ This macro-enabled interactive Excel dashboard analyzes sales executive performa
 ## Dataset Used
 - <a href="https://github.com/devrajwrk-coder/Macro-Enabled-Interactive-Dashboard/blob/main/Macro-Enabled%20Sales%20Data.xlsm">Dataset</a>
 
+## Questions (KPIs)
+- Which sales executives are the top 5 performers in the selected city?
+- Which sales executives fall under the bottom 5 performers and require support?
+- What is the average target hit percentage across sales executives?
+- Which executives have achieved the highest target hit %?
+- Which executives are farthest away from their sales targets?
+- How does sales performance vary across different cities?
+- Which city has the highest overall sales contribution?
+
+## Dashboard Interaction <a href="https://github.com/devrajwrk-coder/Macro-Enabled-Interactive-Dashboard/blob/main/Screenshot%202025-12-23%20192901.png">View Dashboard</a>
+
+## Process
+
+- Prepared and cleaned the raw sales data, then structured it into tables suitable for automation.
+- Created Pivot Tables and charts to analyze top/bottom performers, target achievement, and performance gaps.
+- Recorded and wrote VBA macros to switch between Dashboard 1–4 and dynamically update data based on city selection.
+- Integrated buttons and controls with macros to enable seamless navigation and effortless user interaction.
+
+ # Dashboard
+ [Macro-Enabled Sales Data.xlsm](https://github.com/user-attachments/files/24312666/Macro-Enabled.Sales.Data.xlsm)
