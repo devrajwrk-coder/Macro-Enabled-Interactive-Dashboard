@@ -9,7 +9,7 @@ This macro-enabled interactive Excel dashboard analyzes sales executive performa
 - Which sales executives are the top 5 performers in the selected city?
 - Which sales executives fall under the bottom 5 performers and require support?
 - What is the average target hit percentage across sales executives?
-- Which executives have achieved the highest target hit %?
+- Which executives have achieved the highest target hit ?
 - Which executives are farthest away from their sales targets?
 - How does sales performance vary across different cities?
 - Which city has the highest overall sales contribution?
