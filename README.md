@@ -24,4 +24,4 @@ This macro-enabled interactive Excel dashboard analyzes sales executive performa
 - Integrated buttons and controls with macros to enable seamless navigation and effortless user interaction.
 
  # Dashboard
- [Macro-Enabled Sales Data.xlsm](https://github.com/user-attachments/files/24312666/Macro-Enabled.Sales.Data.xlsm)
+<img width="1642" height="751" alt="Screenshot 2025-12-23 192901" src="https://github.com/user-attachments/assets/a62eebfc-b2ef-4253-a398-8d4cefc7df9d" />
